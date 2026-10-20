@@ -1,0 +1,118 @@
+# ==============================================================================
+# DustIII .gitignore
+# ==============================================================================
+# Controls file visibility and repository hygiene:
+# - Hides transient build artifacts, machine-specific caches, editor states, and secrets.
+# - Preserves the static game shell, simulation modules, and shipped art assets.
+# ==============================================================================
+
+# ==============================================================================
+# SECTION 1: WORKING & PRESERVED FILES (Explicit Whitelists)
+# (Guarantees vital project sources, configs, and assets are preserved)
+# ==============================================================================
+
+# Core Game Shell & Simulation Sources
+!index.html
+!js/
+!assets/
+!assets/ui/icons/
+!.gitignore
+!.markdownlint.json
+
+# Documentation & Licensing
+!readme*.md
+!changelog.md
+!license
+!security.md
+
+# Repository Automation & Community Templates
+!.github/
+
+# ==============================================================================
+# SECTION 2: HIDDEN & IGNORED ARTIFACTS
+# (Local caches, intermediate builds, user states, credentials, diagnostics)
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 2.1 macOS System & Volume Metadata
+# ------------------------------------------------------------------------------
+.DS_Store
+.DS_Store?
+.ds_store
+._*
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# ------------------------------------------------------------------------------
+# 2.2 Package Managers, Bundlers & Local Dependencies
+# ------------------------------------------------------------------------------
+node_modules/
+.npm/
+.yarn/
+.pnpm-store/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ------------------------------------------------------------------------------
+# 2.3 Build Products, Caches & Output Directories
+# ------------------------------------------------------------------------------
+build/
+dist/
+.cache/
+.parcel-cache/
+.tmp/
+*.tgz
+*.zip
+
+# ------------------------------------------------------------------------------
+# 2.4 Environment Secrets, Private Keys & Tokens
+# ------------------------------------------------------------------------------
+.env
+.env.*
+*.key
+*.pem
+*.token
+credentials.json
+token.json
+*secret*
+
+# ------------------------------------------------------------------------------
+# 2.5 Diagnostics, Logs & Telemetry
+# ------------------------------------------------------------------------------
+*.log
+logs/
+
+# ------------------------------------------------------------------------------
+# 2.6 IDEs, Text Editors & AI Agent Working Contexts
+# ------------------------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.gemini/
+.claude/
+.cursor/
+.windsurf/
+.codex/
+antigravity.json
+.nodeterm/
+
+# ------------------------------------------------------------------------------
+# 2.7 Temporary Files, Local Scratchpads & Local Internal Documents
+# ------------------------------------------------------------------------------
+*.tmp
+*.temp
+*.bak
+tmp/
+temp/
+scratch/
+task.md
+todo.md
+plan.md
+report.md

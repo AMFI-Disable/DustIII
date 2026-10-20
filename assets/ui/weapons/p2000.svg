@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2.00 -0.80 21.00 15.80" width="168" height="126">
+<defs>
+<mask id="m0" maskUnits="userSpaceOnUse" x="-7.00" y="-5.80" width="31.00" height="25.80"><rect x="-7.00" y="-5.80" width="31.00" height="25.80" fill="#fff"/><path d="M1.4,1.4 L1.4,4.0" fill="none" stroke="#000" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/><path d="M2.3,1.4 L2.3,4.0" fill="none" stroke="#000" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/><path d="M3.2,1.4 L3.2,4.0" fill="none" stroke="#000" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/></mask>
+</defs>
+<g mask="url(#m0)">
+<path d="M0.6,0.6 L17.8,0.6 Q18.4,0.6 18.4,1.2 L18.4,4.2 Q18.4,4.8 17.8,4.8 L0.6,4.8 Q0,4.8 0,4.2 L0,1.2 Q0,0.6 0.6,0.6 Z" fill="#fff"/>
+<path d="M0.8,4.6 L17.799999999999997,4.6 L17.799999999999997,6.199999999999999 L12.2,6.4 L11.200000000000001,6.8 L7.4,6.8 L1.6,6.0 Z" fill="#fff"/>
+<path d="M1.6,4.8 L7.4,4.8 L4.9,13.799999999999999 Q4.6000000000000005,14.399999999999999 3.8000000000000007,14.399999999999999 L-0.5999999999999998,14.399999999999999 Q-1.3999999999999997,14.399999999999999 -1.1999999999999997,13.599999999999998 Z" fill="#fff"/>
+<path d="M17,-0.2 L18,-0.2 L18,0.7 L17,0.7 Z" fill="#fff"/>
+<path d="M1,-0.2 L2.6,-0.2 L2.6,0.7 L1,0.7 Z" fill="#fff"/>
+<path d="M0.8,4.6 L-0.4,3.4 L-0.4,2.4 L0.8,2.6 Z" fill="#fff"/>
+<path d="M7.6000000000000005,5.3999999999999995 L7.9,7.4 Q8.200000000000001,8.2 9.200000000000001,8.2 L11.200000000000001,8.2 L12.2,6.0" fill="none" stroke="#fff" stroke-width="0.65" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

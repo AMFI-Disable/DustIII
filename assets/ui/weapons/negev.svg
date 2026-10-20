@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-0.20 2.40 101.80 21.00" width="814" height="168">
+<defs>
+<mask id="m0" maskUnits="userSpaceOnUse" x="-5.20" y="-2.60" width="111.80" height="31.00"><rect x="-5.20" y="-2.60" width="111.80" height="31.00" fill="#fff"/><path d="M6.6,9.4 A3.4,1.3 0 1 0 13.4,9.4 A3.4,1.3 0 1 0 6.6,9.4 Z" fill="#000"/><path d="M57.0,6 L57.0,10.8" fill="none" stroke="#000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round"/><path d="M60.2,6 L60.2,10.8" fill="none" stroke="#000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round"/><path d="M63.4,6 L63.4,10.8" fill="none" stroke="#000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round"/><path d="M66.6,6 L66.6,10.8" fill="none" stroke="#000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round"/><path d="M69.8,6 L69.8,10.8" fill="none" stroke="#000" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round"/></mask>
+</defs>
+<g mask="url(#m0)">
+<path d="M0.4,6.0 L4,5.6 L20,6.4 L20,11.6 L4,15.8 Q0.4,16.6 0.4,14.6 Z" fill="#fff"/>
+<path d="M19.8,4 L54.2,4 Q55,4 55,4.8 L55,11.2 Q55,12 54.2,12 L19.8,12 Q19,12 19,11.2 L19,4.8 Q19,4 19.8,4 Z" fill="#fff"/>
+<path d="M24,3 L25.4,3 L25.4,4.2 L24,4.2 Z" fill="#fff"/>
+<path d="M26.6,3 L28,3 L28,4.2 L26.6,4.2 Z" fill="#fff"/>
+<path d="M29.2,3 L30.6,3 L30.6,4.2 L29.2,4.2 Z" fill="#fff"/>
+<path d="M31.8,3 L33.2,3 L33.2,4.2 L31.8,4.2 Z" fill="#fff"/>
+<path d="M34.4,3 L35.8,3 L35.8,4.2 L34.4,4.2 Z" fill="#fff"/>
+<path d="M37,3 L38.4,3 L38.4,4.2 L37,4.2 Z" fill="#fff"/>
+<path d="M39.6,3 L41,3 L41,4.2 L39.6,4.2 Z" fill="#fff"/>
+<path d="M42.2,3 L43.6,3 L43.6,4.2 L42.2,4.2 Z" fill="#fff"/>
+<path d="M44.8,3 L46.2,3 L46.2,4.2 L44.8,4.2 Z" fill="#fff"/>
+<path d="M47.4,3 L48.8,3 L48.8,4.2 L47.4,4.2 Z" fill="#fff"/>
+<path d="M24,11.6 L28.8,11.6 L26.4,20.0 Q26.2,20.6 25.4,20.6 L21.799999999999997,20.400000000000002 Q21.0,20.200000000000003 21.4,19.400000000000002 Z" fill="#fff"/>
+<path d="M35.6,11.6 Q35.6,22.4 40,22.8 L50.4,22.8 Q53,22.4 53,19 L53,11.6 Z" fill="#fff"/>
+<path d="M56.2,5.4 L71,5.4 Q72.6,5.4 72.6,7 L72.6,9.8 Q72.6,11.4 71,11.4 L56.2,11.4 Q54.6,11.4 54.6,9.8 L54.6,7 Q54.6,5.4 56.2,5.4 Z" fill="#fff"/>
+<path d="M72,6.8 L98,6.8 L98,9 L72,9 Z" fill="#fff"/>
+<path d="M96.5,6 L100.5,6 Q101,6 101,6.5 L101,9.1 Q101,9.6 100.5,9.6 L96.5,9.6 Q96,9.6 96,9.1 L96,6.5 Q96,6 96.5,6 Z" fill="#fff"/>
+<path d="M60,12 L61,18 L62.4,18 L62.6,12 Z" fill="#fff"/>
+<path d="M29,11.8 L29.6,14.0 Q30.0,14.8 31,14.8 L33.6,14.8 L34,11.8" fill="none" stroke="#fff" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M31.4,11.8 Q31.8,13.4 31.2,14.4" fill="none" stroke="#fff" stroke-width="0.5599999999999999" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

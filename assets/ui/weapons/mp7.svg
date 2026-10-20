@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-0.60 1.60 49.20 25.00" width="394" height="200">
+<defs>
+<mask id="m0" maskUnits="userSpaceOnUse" x="-5.60" y="-3.40" width="59.20" height="35.00"><rect x="-5.60" y="-3.40" width="59.20" height="35.00" fill="#fff"/><path d="M21,13.4 L26,13.4 L26,14 L21,14 Z" fill="#000"/></mask>
+</defs>
+<g mask="url(#m0)">
+<path d="M0.8,3.6 L1.8,3.6 Q2.6,3.6 2.6,4.4 L2.6,12.4 Q2.6,13.2 1.8,13.2 L0.8,13.2 Q0,13.2 0,12.4 L0,4.4 Q0,3.6 0.8,3.6 Z" fill="#fff"/>
+<path d="M13,3.4 L39,3.4 Q42,3.4 42,6.4 L42,10.2 L34,11.2 L13,11.2 Z" fill="#fff"/>
+<path d="M15,2.2 L16.4,2.2 L16.4,3.6 L15,3.6 Z" fill="#fff"/>
+<path d="M17.6,2.2 L19,2.2 L19,3.6 L17.6,3.6 Z" fill="#fff"/>
+<path d="M20.2,2.2 L21.6,2.2 L21.6,3.6 L20.2,3.6 Z" fill="#fff"/>
+<path d="M22.8,2.2 L24.2,2.2 L24.2,3.6 L22.8,3.6 Z" fill="#fff"/>
+<path d="M25.4,2.2 L26.8,2.2 L26.8,3.6 L25.4,3.6 Z" fill="#fff"/>
+<path d="M28,2.2 L29.4,2.2 L29.4,3.6 L28,3.6 Z" fill="#fff"/>
+<path d="M30.6,2.2 L32,2.2 L32,3.6 L30.6,3.6 Z" fill="#fff"/>
+<path d="M33.2,2.2 L34.6,2.2 L34.6,3.6 L33.2,3.6 Z" fill="#fff"/>
+<path d="M41.9,6 L47.7,6 Q48,6 48,6.3 L48,7.9 Q48,8.2 47.7,8.2 L41.9,8.2 Q41.6,8.2 41.6,7.9 L41.6,6.3 Q41.6,6 41.9,6 Z" fill="#fff"/>
+<path d="M20.4,10.6 L27.2,10.6 L26.6,25 Q26.6,26 25.6,26 L21.4,26 Q20.4,26 20.4,25 Z" fill="#fff"/>
+<path d="M35,10.6 L38.4,10.6 L38.8,19.6 Q38.8,20.6 37.8,20.6 L36,20.6 Q35,20.6 35,19.6 Z" fill="#fff"/>
+<path d="M1.6,5.2 L14,5.2" fill="none" stroke="#fff" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1.6,8.4 L14,8.4" fill="none" stroke="#fff" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M27.2,11.2 L27.6,14 Q28,15 29.2,15 L32.6,15 L33.4,11.2" fill="none" stroke="#fff" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

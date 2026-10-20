@@ -1,0 +1,41 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Dust II Defusal</title>
+<meta name="description" content="5v5 bomb defusal on Dust II in the browser — CS2-style rules, economy, weapons and bots.">
+<style>
+  /* single-look game UI: warm dusk palette, always dark */
+  :root { --bg: #0d0f12; --fg: #e9e4da; --accent: #e7c063; --ct: #8fc6f2; --muted: #a99772; color-scheme: dark; }
+  html, body { margin: 0; height: 100%; overflow: hidden; background: var(--bg); color: var(--fg); font-family: "Saira Condensed", "Rajdhani", "Noto Sans SC", system-ui, sans-serif; }
+  canvas#c { position: fixed; inset: 0; width: 100vw; height: 100vh; display: block; outline: none; cursor: crosshair; }
+  #hud { position: fixed; inset: 0; pointer-events: none; }
+  #hud > * { pointer-events: auto; }
+  #loading { position: fixed; inset: 0; z-index: 50; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 22px;
+    background: radial-gradient(ellipse at 50% 60%, #3a2b19 0%, #17120c 55%, #0b0907 100%); transition: opacity .6s ease; }
+  #loading.done { opacity: 0; pointer-events: none; }
+  #loading .t1 { font-size: clamp(42px, 8vw, 96px); font-weight: 700; letter-spacing: .08em; color: #f1dfb8; text-shadow: 0 4px 30px rgba(231,192,99,.35); line-height: 1; }
+  #loading .t2 { font-size: clamp(14px, 2vw, 20px); letter-spacing: .35em; color: #c9a86a; text-transform: uppercase; }
+  #loading .bar { width: min(520px, 80vw); height: 4px; background: rgba(255,255,255,.08); border-radius: 2px; overflow: hidden; }
+  #loadbar { height: 100%; width: 0; background: linear-gradient(90deg, #c98a2b, #f2cf74); transition: width .25s ease; }
+  #loadtxt { font-size: 14px; letter-spacing: .12em; color: #a99772; min-height: 1.2em; }
+  #loading.err #loadtxt { color: #ff8a7a; }
+  #loading .tip { position: absolute; bottom: 28px; left: 16px; right: 16px; text-align: center; font-size: 13px; color: #7f705a; letter-spacing: .05em; }
+  #clickhint { position: fixed; left: 50%; top: 58%; transform: translateX(-50%); z-index: 40; padding: 12px 22px; border-radius: 6px;
+    background: rgba(10,12,14,.78); color: #f3ead6; font-size: 18px; letter-spacing: .08em; display: none; cursor: pointer; border: 1px solid rgba(231,192,99,.35); }
+  #clickhint.on { display: block; }
+</style>
+<script type="importmap">{"imports":{
+  "three":"https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js",
+  "three/addons/":"https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/",
+  "three-mesh-bvh":"https://cdn.jsdelivr.net/npm/three-mesh-bvh@0.8.3/build/index.module.js"}}</script>
+<canvas id="c" tabindex="0"></canvas>
+<div id="hud"></div>
+<div id="clickhint">CLICK TO PLAY · 点击继续</div>
+<div id="loading">
+  <div class="t1">DUST II</div>
+  <div class="t2">Bomb Defusal · 爆破模式</div>
+  <div class="bar"><div id="loadbar"></div></div>
+  <div id="loadtxt">Loading · 加载中</div>
+  <div class="tip">B 购买 · Tab 计分板 · 1-5 切换武器 · R 换弹 · E 拆包/拾取 · G 丢弃 · F 检视 · Shift 静步 · Ctrl 蹲下</div>
+</div>
+<script type="module" src="js/main.js"></script>
+
+</body></html>

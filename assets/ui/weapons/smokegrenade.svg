@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0.10 0.50 14.10 19.90" width="113" height="159">
+<defs>
+<mask id="m0" maskUnits="userSpaceOnUse" x="-4.90" y="-4.50" width="24.10" height="29.90"><rect x="-4.90" y="-4.50" width="24.10" height="29.90" fill="#fff"/><path d="M3.45,9 A0.75,0.75 0 1 0 4.95,9 A0.75,0.75 0 1 0 3.45,9 Z" fill="#000"/><path d="M3.45,17.2 A0.75,0.75 0 1 0 4.95,17.2 A0.75,0.75 0 1 0 3.45,17.2 Z" fill="#000"/><path d="M6.05,9 A0.75,0.75 0 1 0 7.55,9 A0.75,0.75 0 1 0 6.05,9 Z" fill="#000"/><path d="M6.05,17.2 A0.75,0.75 0 1 0 7.55,17.2 A0.75,0.75 0 1 0 6.05,17.2 Z" fill="#000"/><path d="M8.65,9 A0.75,0.75 0 1 0 10.15,9 A0.75,0.75 0 1 0 8.65,9 Z" fill="#000"/><path d="M8.65,17.2 A0.75,0.75 0 1 0 10.15,17.2 A0.75,0.75 0 1 0 8.65,17.2 Z" fill="#000"/><path d="M2.4,13 L11,13" fill="none" stroke="#000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/></mask>
+</defs>
+<g mask="url(#m0)">
+<path d="M2.6,6.4 L10.6,6.4 Q11.6,6.4 11.6,7.4 L11.6,18.8 Q11.6,19.8 10.6,19.8 L2.6,19.8 Q1.6,19.8 1.6,18.8 L1.6,7.4 Q1.6,6.4 2.6,6.4 Z" fill="#fff"/>
+<path d="M4.8,2.8 L8.4,2.8 Q9,2.8 9,3.4 L9,6.2 Q9,6.8 8.4,6.8 L4.8,6.8 Q4.2,6.8 4.2,6.2 L4.2,3.4 Q4.2,2.8 4.8,2.8 Z" fill="#fff"/>
+<path d="M9,3.2 L12,2.6 Q13.6,3.2 13.6,6 L13.6,15 L12.2,15 L12.2,6 Q12.2,4.6 9,4.6 Z" fill="#fff"/>
+<path d="M1.3,3.4 A1.7,1.7 0 1 0 4.7,3.4 A1.7,1.7 0 1 0 1.3,3.4 Z" fill="none" stroke="#fff" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

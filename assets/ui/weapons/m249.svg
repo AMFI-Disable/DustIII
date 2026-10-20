@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-0.20 0.00 101.40 24.60" width="811" height="197">
+<defs>
+<mask id="m0" maskUnits="userSpaceOnUse" x="-5.20" y="-5.00" width="111.40" height="34.60"><rect x="-5.20" y="-5.00" width="111.40" height="34.60" fill="#fff"/><path d="M37,0.6 L44,0.6 L44,2.2 L37,2.2 Z" fill="#000"/><path d="M57.7,8.4 A0.9,0.9 0 1 0 59.5,8.4 A0.9,0.9 0 1 0 57.7,8.4 Z" fill="#000"/><path d="M61.1,8.4 A0.9,0.9 0 1 0 62.9,8.4 A0.9,0.9 0 1 0 61.1,8.4 Z" fill="#000"/><path d="M64.5,8.4 A0.9,0.9 0 1 0 66.3,8.4 A0.9,0.9 0 1 0 64.5,8.4 Z" fill="#000"/><path d="M67.9,8.4 A0.9,0.9 0 1 0 69.7,8.4 A0.9,0.9 0 1 0 67.9,8.4 Z" fill="#000"/></mask>
+</defs>
+<g mask="url(#m0)">
+<path d="M0.4,5.4 L14,6 L22,6.4 L22,12.6 L14,13 L4,17.4 Q0.4,18.4 0.4,16.2 Z" fill="#fff"/>
+<path d="M21.4,4 L55.8,4 Q56.6,4 56.6,4.8 L56.6,11.8 Q56.6,12.6 55.8,12.6 L21.4,12.6 Q20.6,12.6 20.6,11.8 L20.6,4.8 Q20.6,4 21.4,4 Z" fill="#fff"/>
+<path d="M32,4.2 L33,0.6 L46,0.6 L47,4.2 Z" fill="#fff"/>
+<path d="M25.4,12.2 L30.2,12.2 L27.799999999999997,20.599999999999998 Q27.599999999999998,21.2 26.799999999999997,21.2 L23.199999999999996,21.0 Q22.4,20.8 22.799999999999997,20.0 Z" fill="#fff"/>
+<path d="M36.6,12.4 L52,12.4 L52,23 Q52,24 51,24 L37.6,24 Q36.6,24 36.6,23 Z" fill="#fff"/>
+<path d="M56.8,6 L70.2,6 Q71,6 71,6.8 L71,10 Q71,10.8 70.2,10.8 L56.8,10.8 Q56,10.8 56,10 L56,6.8 Q56,6 56.8,6 Z" fill="#fff"/>
+<path d="M70,7 L97,7 L97,9.2 L70,9.2 Z" fill="#fff"/>
+<path d="M95.9,6.4 L100.1,6.4 Q100.6,6.4 100.6,6.9 L100.6,9.3 Q100.6,9.8 100.1,9.8 L95.9,9.8 Q95.4,9.8 95.4,9.3 L95.4,6.9 Q95.4,6.4 95.9,6.4 Z" fill="#fff"/>
+<path d="M88,7.1 L88.6,3.8 L90.4,3.8 L91,7.1 Z" fill="#fff"/>
+<path d="M30.4,12.4 L31.0,14.6 Q31.4,15.4 32.4,15.4 L35.2,15.4 L35.6,12.4" fill="none" stroke="#fff" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32.8,12.4 Q33.199999999999996,14.0 32.6,15.0" fill="none" stroke="#fff" stroke-width="0.5599999999999999" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M74,9.6 L88,12.6" fill="none" stroke="#fff" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M74,9.6 L88,10.4" fill="none" stroke="#fff" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

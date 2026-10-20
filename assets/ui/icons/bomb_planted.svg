@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1.60 -0.15 20.80 20.80" width="166" height="166">
+<defs>
+<mask id="m0" maskUnits="userSpaceOnUse" x="-3.40" y="-5.15" width="30.80" height="30.80"><rect x="-3.40" y="-5.15" width="30.80" height="30.80" fill="#fff"/><path d="M11.5,9.2 L19.1,9.2 Q19.6,9.2 19.6,9.7 L19.6,12.3 Q19.6,12.8 19.1,12.8 L11.5,12.8 Q11,12.8 11,12.3 L11,9.7 Q11,9.2 11.5,9.2 Z" fill="#000"/><path d="M11.7,14.4 L12.9,14.4 Q13.2,14.4 13.2,14.7 L13.2,15.7 Q13.2,16 12.9,16 L11.7,16 Q11.4,16 11.4,15.7 L11.4,14.7 Q11.4,14.4 11.7,14.4 Z" fill="#000"/><path d="M14.5,14.4 L15.7,14.4 Q16,14.4 16,14.7 L16,15.7 Q16,16 15.7,16 L14.5,16 Q14.2,16 14.2,15.7 L14.2,14.7 Q14.2,14.4 14.5,14.4 Z" fill="#000"/><path d="M17.3,14.4 L18.5,14.4 Q18.8,14.4 18.8,14.7 L18.8,15.7 Q18.8,16 18.5,16 L17.3,16 Q17,16 17,15.7 L17,14.7 Q17,14.4 17.3,14.4 Z" fill="#000"/><path d="M4.4,9 L4.4,17" fill="none" stroke="#000" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/><path d="M7.4,9 L7.4,17" fill="none" stroke="#000" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></mask>
+</defs>
+<g mask="url(#m0)">
+<path d="M3.2,7 L20.8,7 Q22,7 22,8.2 L22,17.8 Q22,19 20.8,19 L3.2,19 Q2,19 2,17.8 L2,8.2 Q2,7 3.2,7 Z" fill="#fff"/>
+<path d="M7,6.6 Q8,2 12.6,3.6 Q16,4.8 18,2" fill="none" stroke="#fff" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1.60 -0.80 21.20 15.80" width="170" height="126">
+<defs>
+<mask id="m0" maskUnits="userSpaceOnUse" x="-6.60" y="-5.80" width="31.20" height="25.80"><rect x="-6.60" y="-5.80" width="31.20" height="25.80" fill="#fff"/><path d="M1.4,1.4 L1.4,3.8" fill="none" stroke="#000" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/><path d="M2.3,1.4 L2.3,3.8" fill="none" stroke="#000" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/><path d="M3.2,1.4 L3.2,3.8" fill="none" stroke="#000" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/></mask>
+</defs>
+<g mask="url(#m0)">
+<path d="M0.6,0.6 L18.4,0.6 Q19,0.6 19,1.2 L19,4 Q19,4.6 18.4,4.6 L0.6,4.6 Q0,4.6 0,4 L0,1.2 Q0,0.6 0.6,0.6 Z" fill="#fff"/>
+<path d="M0.8,4.3999999999999995 L18.4,4.3999999999999995 L18.4,6.0 L12.2,6.199999999999999 L11.200000000000001,6.6 L7.4,6.6 L1.6,5.8 Z" fill="#fff"/>
+<path d="M1.6,4.6 L7.4,4.6 L5.3,13.4 Q5.0,14.0 4.2,14.0 L-0.19999999999999984,14.0 Q-0.9999999999999998,14.0 -0.7999999999999998,13.2 Z" fill="#fff"/>
+<path d="M14.1,6.2 L16.7,6.2 Q17.2,6.2 17.2,6.7 L17.2,13.9 Q17.2,14.4 16.7,14.4 L14.1,14.4 Q13.6,14.4 13.6,13.9 L13.6,6.7 Q13.6,6.2 14.1,6.2 Z" fill="#fff"/>
+<path d="M17.6,-0.2 L18.6,-0.2 L18.6,0.7 L17.6,0.7 Z" fill="#fff"/>
+<path d="M1,-0.2 L2.6,-0.2 L2.6,0.7 L1,0.7 Z" fill="#fff"/>
+<path d="M0.8,4.4 L-0.6,3.2 L-0.6,2.2 L0.8,2.4 Z" fill="#fff"/>
+<path d="M7.6000000000000005,5.199999999999999 L7.9,7.199999999999999 Q8.200000000000001,8.0 9.200000000000001,8.0 L11.200000000000001,8.0 L12.2,5.8" fill="none" stroke="#fff" stroke-width="0.65" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
