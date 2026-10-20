@@ -9,6 +9,7 @@
 [![引擎: Three.js 0.170](https://img.shields.io/badge/引擎-Three.js%200.170-black.svg?style=flat-square)](https://threejs.org)
 [![規則: CS2 競技](https://img.shields.io/badge/規則-CS2%20競技-orange.svg?style=flat-square)](#rules)
 [![狀態: 可遊玩](https://img.shields.io/badge/狀態-可遊玩-success.svg?style=flat-square)](#overview)
+[![試玩: 線上展示](https://img.shields.io/badge/試玩-線上展示-success.svg?style=flat-square&logo=githubpages)](https://amfi-disable.github.io/DustIII/)
 [![開源授權: MIT](https://img.shields.io/badge/開源授權-MIT-blue.svg?style=flat-square)](license)
 [![價格: 100% 免費開源](https://img.shields.io/badge/價格-100%25%20免費開源-success.svg?style=flat-square)](#overview)
 [![隱私: 零遙測 / 100% 本地](https://img.shields.io/badge/隱私-零遙測%20%2F%20100%25%20本地-purple.svg?style=flat-square)](#privacy)

@@ -9,6 +9,7 @@
 [![エンジン: Three.js 0.170](https://img.shields.io/badge/エンジン-Three.js%200.170-black.svg?style=flat-square)](https://threejs.org)
 [![ルール: CS2 競技](https://img.shields.io/badge/ルール-CS2%20競技-orange.svg?style=flat-square)](#rules)
 [![ステータス: プレイ可能](https://img.shields.io/badge/ステータス-プレイ可能-success.svg?style=flat-square)](#overview)
+[![プレイ: ライブデモ](https://img.shields.io/badge/プレイ-ライブデモ-success.svg?style=flat-square&logo=githubpages)](https://amfi-disable.github.io/DustIII/)
 [![ライセンス: MIT](https://img.shields.io/badge/ライセンス-MIT-blue.svg?style=flat-square)](license)
 [![価格: 100% 無料・オープンソース](https://img.shields.io/badge/価格-100%25%20無料・オープンソース-success.svg?style=flat-square)](#overview)
 [![プライバシー: テレメトリゼロ / 100% ローカル](https://img.shields.io/badge/プライバシー-テレメトリゼロ%20%2F%20100%25%20ローカル-purple.svg?style=flat-square)](#privacy)

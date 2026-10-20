@@ -9,6 +9,7 @@
 [![Motor: Three.js 0.170](https://img.shields.io/badge/Motor-Three.js%200.170-black.svg?style=flat-square)](https://threejs.org)
 [![Reglas: Competitivo CS2](https://img.shields.io/badge/Reglas-Competitivo%20CS2-orange.svg?style=flat-square)](#rules)
 [![Estado: Jugable](https://img.shields.io/badge/Estado-Jugable-success.svg?style=flat-square)](#overview)
+[![Jugar: Demo En Vivo](https://img.shields.io/badge/Jugar-Demo%20En%20Vivo-success.svg?style=flat-square&logo=githubpages)](https://amfi-disable.github.io/DustIII/)
 [![Licencia: MIT](https://img.shields.io/badge/Licencia-MIT-blue.svg?style=flat-square)](license)
 [![Precio: 100% Gratis Y Código Abierto](https://img.shields.io/badge/Precio-100%25%20Gratis%20Y%20Código%20Abierto-success.svg?style=flat-square)](#overview)
 [![Privacidad: Cero Telemetría / 100% Local](https://img.shields.io/badge/Privacidad-Cero%20Telemetría%20%2F%20100%25%20Local-purple.svg?style=flat-square)](#privacy)

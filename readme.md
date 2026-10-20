@@ -9,6 +9,7 @@
 [![Engine: Three.js](https://img.shields.io/badge/Engine-Three.js%200.170-black.svg?style=flat-square)](https://threejs.org)
 [![Rules: CS2 Competitive](https://img.shields.io/badge/Rules-CS2%20Competitive-orange.svg?style=flat-square)](#competitive-rules-and-economy)
 [![Status: Playable](https://img.shields.io/badge/Status-Playable-success.svg?style=flat-square)](#-overview-and-core-value)
+[![Play: Live Demo](https://img.shields.io/badge/Play-Live%20Demo-success.svg?style=flat-square&logo=githubpages)](https://amfi-disable.github.io/DustIII/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](license)
 [![Pricing: Free & Open-Source](https://img.shields.io/badge/Pricing-100%25%20Free%20%26%20Open%20Source-success.svg?style=flat-square)](#-overview-and-core-value)
 [![Privacy: Zero Telemetry](https://img.shields.io/badge/Privacy-Zero%20Telemetry%20%2F%20100%25%20Local-purple.svg?style=flat-square)](#-privacy-and-security-first)

@@ -12,6 +12,7 @@ The format follows Keep a Changelog, and this project uses Semantic Versioning.
 
 - Standardized repository scaffolding: `readme.md`, `changelog.md`, `license`, `security.md`, and GitHub issue and pull request templates.
 - Browser-game README covering controls, local serving, architecture, diagnostics, privacy, and licensing.
+- GitHub Actions Pages workflow publishing the static build at [the live demo](https://amfi-disable.github.io/DustIII/), plus a live-demo badge in every localized readme.
 
 ### Changed
 
