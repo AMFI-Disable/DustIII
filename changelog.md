@@ -12,11 +12,19 @@ The format follows Keep a Changelog, and this project uses Semantic Versioning.
 
 - Standardized repository scaffolding: `readme.md`, `changelog.md`, `license`, `security.md`, and GitHub issue and pull request templates.
 - Browser-game README covering controls, local serving, architecture, diagnostics, privacy, and licensing.
+- Localized README documentation in six additional languages (`readme.de.md`, `readme.es.md`, `readme.fr.md`, `readme.ja.md`, `readme.zh-cn.md`, `readme.zh-tw.md`) with multi-language selector navigation.
 - GitHub Actions Pages workflow publishing the static build at [the live demo](https://amfi-disable.github.io/DustIII/), plus a live-demo badge in every localized readme.
+- Custom domain configuration (`CNAME`) for GitHub Pages pointing to `dustiii.is-cool.dev`.
+- Automated offline quality checks in GitHub Actions CI (`ci.yml`) validating JavaScript syntax, YAML configurations, lowercase filenames, and commit message conventions.
 
 ### Changed
 
 - Lowercased marker texture assets to `mark_a.png` and `mark_b.png`, and updated the `js/world.js` references.
+- Modernized GitHub Pages deployment workflow actions to standard versions (`actions/checkout@v6`, `actions/configure-pages@v6`, `actions/upload-pages-artifact@v5`, `actions/deploy-pages@v5`).
+
+### Fixed
+
+- Corrected internal heading anchor links across documentation for table of contents navigation.
 
 ---
 
