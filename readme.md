@@ -17,6 +17,18 @@
 
 ---
 
+## 🌐 Select Language / 选择语言 / 言語を選択 / Idioma / Langue / Sprache
+
+**[English](readme.md)** •
+**[简体中文](readme.zh-cn.md)** •
+**[繁體中文](readme.zh-tw.md)** •
+**[日本語](readme.ja.md)** •
+**[Español](readme.es.md)** •
+**[Français](readme.fr.md)** •
+**[Deutsch](readme.de.md)**
+
+---
+
 ## 🧭 Table Of Contents
 
 - [Overview And Core Value](#-overview-and-core-value)
