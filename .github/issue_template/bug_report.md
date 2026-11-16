@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Create a report to help us improve the game
+about: Report a bug or unexpected behavior
 title: "[BUG] "
 labels: bug
 assignees: AMFI-Disable
@@ -12,24 +12,21 @@ A clear and concise description of what the bug is.
 
 ## Steps To Reproduce
 
-1. Launch the game.
+1. Open '...'
 2. Navigate to '...'
-3. Perform '....'
-4. Observe error behavior.
+3. Trigger '...'
+4. Observe the issue.
 
 ## Expected Behavior
 
-A clear and concise description of what you expected to happen.
+What you expected to happen.
 
 ## Environment Details
 
-- **Game Version**: [e.g. 1.0.0]
-- **Browser And Version**: [e.g. Chrome 140, Safari 19, Firefox 142]
-- **Operating System**: [e.g. macOS Sonoma 14.5, Windows 11, Ubuntu 24.04]
-- **GPU / Renderer**: [e.g. Apple M2, NVIDIA RTX 4060]
-- **WebGL Version**: [e.g. WebGL 2]
-- **Console Errors**: [paste any relevant console output]
+- **Project Version**: [e.g. 1.0.0]
+- **Browser / Runtime**: [e.g. Chrome 130, Firefox 132, Tampermonkey 5.x]
+- **Operating System**: [e.g. macOS 15, Windows 11, Linux]
 
 ## Additional Context
 
-Add any other context, screenshots, or diagnostic exports here.
+Add console errors, screenshots, or reproduction logs here.

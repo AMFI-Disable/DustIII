@@ -1,6 +1,6 @@
-# 🎯 DustIII
-
 <div align="center">
+
+# DustIII
 
 **Dust II Defusal — 5v5 Bomb Defusal In Your Browser**  
 *A faithful CS2-style ruleset built with Three.js: real economy, buy menu, spray patterns, wallbangs, utility, bomb sites, and four tiers of bot opponents — served as a static site with zero backend.*
@@ -8,17 +8,17 @@
 [![Platform: Browser](https://img.shields.io/badge/Platform-WebGL%202%20%2F%20ES%20Modules-blue.svg?style=flat-square&logo=googlechrome)](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
 [![Engine: Three.js](https://img.shields.io/badge/Engine-Three.js%200.170-black.svg?style=flat-square)](https://threejs.org)
 [![Rules: CS2 Competitive](https://img.shields.io/badge/Rules-CS2%20Competitive-orange.svg?style=flat-square)](#competitive-rules-and-economy)
-[![Status: Playable](https://img.shields.io/badge/Status-Playable-success.svg?style=flat-square)](#-overview-and-core-value)
+[![Status: Playable](https://img.shields.io/badge/Status-Playable-success.svg?style=flat-square)](#overview-and-core-value)
 [![Play: Live Demo](https://img.shields.io/badge/Play-Live%20Demo-success.svg?style=flat-square&logo=githubpages)](https://amfi-disable.github.io/DustIII/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](license)
-[![Pricing: Free & Open-Source](https://img.shields.io/badge/Pricing-100%25%20Free%20%26%20Open%20Source-success.svg?style=flat-square)](#-overview-and-core-value)
-[![Privacy: Zero Telemetry](https://img.shields.io/badge/Privacy-Zero%20Telemetry%20%2F%20100%25%20Local-purple.svg?style=flat-square)](#-privacy-and-security-first)
+[![Pricing: Free & Open-Source](https://img.shields.io/badge/Pricing-100%25%20Free%20%26%20Open%20Source-success.svg?style=flat-square)](#overview-and-core-value)
+[![Privacy: Zero Telemetry](https://img.shields.io/badge/Privacy-Zero%20Telemetry%20%2F%20100%25%20Local-purple.svg?style=flat-square)](#privacy-and-security-first)
 
 </div>
 
 ---
 
-## 🌐 Select Language / 选择语言 / 言語を選択 / Idioma / Langue / Sprache
+## Select Language / 选择语言 / 言語を選択 / Idioma / Langue / Sprache
 
 **[English](readme.md)** •
 **[简体中文](readme.zh-cn.md)** •
@@ -30,21 +30,21 @@
 
 ---
 
-## 🧭 Table Of Contents
+## Table Of Contents
 
-- [Overview And Core Value](#-overview-and-core-value)
-- [Key Features](#-key-features)
-- [Controls](#-controls)
-- [Getting Started](#-getting-started)
-- [Architecture And Design](#-architecture-and-design)
-- [Diagnostics And Verification](#-diagnostics-and-verification)
-- [Privacy And Security First](#-privacy-and-security-first)
-- [Educational And Fair-Play Disclaimer](#-educational-and-fair-play-disclaimer)
-- [License And Terms](#-license-and-terms)
+- [Overview And Core Value](#overview-and-core-value)
+- [Key Features](#key-features)
+- [Controls](#controls)
+- [Getting Started](#getting-started)
+- [Architecture And Design](#architecture-and-design)
+- [Diagnostics And Verification](#diagnostics-and-verification)
+- [Privacy And Security First](#privacy-and-security-first)
+- [Educational And Fair-Play Disclaimer](#educational-and-fair-play-disclaimer)
+- [License And Terms](#license-and-terms)
 
 ---
 
-## ⚡ Overview And Core Value
+## Overview And Core Value
 
 DustIII is a browser-native recreation of the classic 5v5 bomb-defusal loop on de_dust2. You hold a rifle, four bot teammates hold angles with you, and five enemy bots buy, rotate, execute, and retake like a coordinated team. Every round is simulated locally in a single page — there is no account, no matchmaking service, no download, and no telemetry.
 
@@ -52,7 +52,7 @@ The project targets desktop Chrome, Firefox, and Safari with WebGL 2. A cold loa
 
 ---
 
-## 🎮 Key Features
+## Key Features
 
 ### Competitive Rules And Economy
 
@@ -98,7 +98,7 @@ The project targets desktop Chrome, Firefox, and Safari with WebGL 2. A cold loa
 
 ---
 
-## 🕹 Controls
+## Controls
 
 | Action | Binding |
 | :--- | :--- |
@@ -122,7 +122,7 @@ The project targets desktop Chrome, Firefox, and Safari with WebGL 2. A cold loa
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Requirements
 
@@ -149,7 +149,7 @@ Because the build is a plain static bundle, any static host works: GitHub Pages,
 
 ---
 
-## 🧱 Architecture And Design
+## Architecture And Design
 
 The game is a flat ES module application with no build step. `index.html` owns the DOM shell, HUD styles, and the import map; `js/` owns simulation and presentation.
 
@@ -191,7 +191,7 @@ DustIII/
 
 ---
 
-## 🧪 Diagnostics And Verification
+## Diagnostics And Verification
 
 - **Headless Render Skip**: Append `?norender` to the URL to skip the expensive render loop while keeping the simulation alive. This is useful for automated smoke loads and profiling.
 - **Browser Console**: All systems log through the console. Load failures name the missing asset or module.
@@ -202,7 +202,7 @@ There is no automated unit test suite in this repository. Contributions that add
 
 ---
 
-## 🔒 Privacy And Security First
+## Privacy And Security First
 
 - **Zero Telemetry**: No analytics, no tracking pixels, no crash reporting, and no identifiers.
 - **Zero Backend**: The game is fully static. No account, matchmaking, or database service exists.
@@ -212,7 +212,7 @@ There is no automated unit test suite in this repository. Contributions that add
 
 ---
 
-## ⚖ Educational And Fair-Play Disclaimer
+## Educational And Fair-Play Disclaimer
 
 > [!CAUTION]
 > **IMPORTANT NOTICE & DISCLAIMER**:
@@ -222,6 +222,6 @@ There is no automated unit test suite in this repository. Contributions that add
 
 ---
 
-## 📄 License And Terms
+## License And Terms
 
 Licensed under the [MIT License](license). Copyright (c) 2026 AMFI-Disable.

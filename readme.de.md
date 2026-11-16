@@ -1,6 +1,6 @@
-# 🎯 DustIII
-
 <div align="center">
+
+# DustIII
 
 **Dust II Defusal — 5v5 Bombenentschärfung Im Browser**  
 *Ein CS2-treues Regelset auf Basis von Three.js: echte Wirtschaft, Kaufmenü, Rückstoßmuster, Wanddurchschlag, Utility, Bombenstellen und vier Bot-Stufen — als statische Seite ohne Backend.*
@@ -18,7 +18,7 @@
 
 ---
 
-## 🌐 Sprache Auswählen / Select Language / 选择语言 / 言語を選択 / Idioma / Langue / Sprache
+## Sprache Auswählen / Select Language / 选择语言 / 言語を選択 / Idioma / Langue / Sprache
 
 **[English](readme.md)** •
 **[简体中文](readme.zh-cn.md)** •
@@ -30,7 +30,7 @@
 
 ---
 
-## 🧭 Inhaltsverzeichnis
+## Inhaltsverzeichnis
 
 - [Überblick Und Kernwert](#overview)
 - [Hauptfunktionen](#features)
@@ -44,7 +44,7 @@
 
 ---
 
-## ⚡ Überblick Und Kernwert <a id="overview"></a>
+## Überblick Und Kernwert <a id="overview"></a>
 
 DustIII ist eine browser-native Nachbildung des klassischen 5v5-Bombenentschärfungszyklus auf de_dust2. Du hältst ein Gewehr, vier Bot-Teamkollegen sichern mit dir Winkel ab, und fünf gegnerische Bots kaufen, rotieren, führen aus und nehmen Positionen zurück wie ein koordiniertes Team. Jede Runde wird lokal in einer einzigen Seite simuliert — kein Konto, kein Matchmaking-Dienst, kein Download und keine Telemetrie.
 
@@ -52,7 +52,7 @@ Das Projekt richtet sich an Desktop-Chrome, Firefox und Safari mit WebGL 2. Ein 
 
 ---
 
-## 🎮 Hauptfunktionen <a id="features"></a>
+## Hauptfunktionen <a id="features"></a>
 
 ### Wettbewerbsregeln Und Wirtschaft <a id="rules"></a>
 
@@ -98,7 +98,7 @@ Das Projekt richtet sich an Desktop-Chrome, Firefox und Safari mit WebGL 2. Ein 
 
 ---
 
-## 🕹 Steuerung <a id="controls"></a>
+## Steuerung <a id="controls"></a>
 
 | Aktion | Taste |
 | :--- | :--- |
@@ -122,7 +122,7 @@ Das Projekt richtet sich an Desktop-Chrome, Firefox und Safari mit WebGL 2. Ein 
 
 ---
 
-## 🚀 Erste Schritte <a id="start"></a>
+## Erste Schritte <a id="start"></a>
 
 ### Voraussetzungen
 
@@ -149,7 +149,7 @@ Da das Paket vollständig statisch ist, funktioniert jedes Static-Hosting: GitHu
 
 ---
 
-## 🧱 Architektur Und Design <a id="architecture"></a>
+## Architektur Und Design <a id="architecture"></a>
 
 Das Spiel ist eine flache ES-Modul-Anwendung ohne Build-Schritt. `index.html` besitzt die DOM-Hülle, die HUD-Stile und die Import-Map; `js/` besitzt Simulation und Darstellung.
 
@@ -191,7 +191,7 @@ DustIII/
 
 ---
 
-## 🧪 Diagnose Und Verifikation <a id="diagnostics"></a>
+## Diagnose Und Verifikation <a id="diagnostics"></a>
 
 - **Rendering Überspringen**: Hänge `?norender` an die URL, um die teure Rendering-Schleife zu überspringen und die Simulation weiterlaufen zu lassen. Nützlich für automatisierte Smoke-Loads und Profiling.
 - **Browser-Konsole**: Alle Systeme protokollieren in die Konsole; Ladefehler benennen die fehlende Ressource oder das fehlende Modul.
@@ -202,7 +202,7 @@ Dieses Repository enthält keine automatisierte Unit-Test-Suite. Beiträge, die 
 
 ---
 
-## 🔒 Datenschutz Und Sicherheit <a id="privacy"></a>
+## Datenschutz Und Sicherheit <a id="privacy"></a>
 
 - **Keine Telemetrie**: Keine Analytik, keine Tracking-Pixel, keine Absturzberichte und keine Identifikatoren.
 - **Kein Backend**: Das Spiel ist vollständig statisch. Es gibt kein Konto, kein Matchmaking und keinen Datenbankdienst.
@@ -212,7 +212,7 @@ Dieses Repository enthält keine automatisierte Unit-Test-Suite. Beiträge, die 
 
 ---
 
-## ⚖ Bildungs- Und Fair-Play-Haftungsausschluss <a id="disclaimer"></a>
+## Bildungs- Und Fair-Play-Haftungsausschluss <a id="disclaimer"></a>
 
 > [!CAUTION]
 > **WICHTIGER HINWEIS UND HAFTUNGSAUSSCHLUSS**:
@@ -222,6 +222,6 @@ Dieses Repository enthält keine automatisierte Unit-Test-Suite. Beiträge, die 
 
 ---
 
-## 📄 Lizenz Und Bedingungen <a id="license"></a>
+## Lizenz Und Bedingungen <a id="license"></a>
 
 Veröffentlicht unter der [MIT-Lizenz](license). Copyright (c) 2026 AMFI-Disable.

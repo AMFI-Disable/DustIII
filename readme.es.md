@@ -1,6 +1,6 @@
-# 🎯 DustIII
-
 <div align="center">
+
+# DustIII
 
 **Dust II Defusal — Desactivación De Bombas 5v5 En Tu Navegador**  
 *Un conjunto de reglas fiel a CS2 construido con Three.js: economía real, menú de compra, patrones de retroceso, penetración de paredes, utilidades, sitios de bomba y cuatro niveles de bots — servido como sitio estático sin backend.*
@@ -18,7 +18,7 @@
 
 ---
 
-## 🌐 Seleccionar Idioma / Select Language / 选择语言 / 言語を選択 / Idioma / Langue / Sprache
+## Seleccionar Idioma / Select Language / 选择语言 / 言語を選択 / Idioma / Langue / Sprache
 
 **[English](readme.md)** •
 **[简体中文](readme.zh-cn.md)** •
@@ -30,7 +30,7 @@
 
 ---
 
-## 🧭 Tabla De Contenidos
+## Tabla De Contenidos
 
 - [Descripción General Y Valor Central](#overview)
 - [Características Principales](#features)
@@ -44,7 +44,7 @@
 
 ---
 
-## ⚡ Descripción General Y Valor Central <a id="overview"></a>
+## Descripción General Y Valor Central <a id="overview"></a>
 
 DustIII es una recreación nativa del navegador del clásico ciclo de desactivación de bombas 5v5 en de_dust2. Empuñas un rifle, cuatro compañeros bot cubren ángulos contigo y cinco bots enemigos compran, rotan, ejecutan y recuperan posiciones como un equipo coordinado. Cada ronda se simula localmente en una sola página: sin cuenta, sin servicio de emparejamiento, sin descargas y sin telemetría.
 
@@ -52,7 +52,7 @@ El proyecto apunta a Chrome, Firefox y Safari de escritorio con WebGL 2. Una car
 
 ---
 
-## 🎮 Características Principales <a id="features"></a>
+## Características Principales <a id="features"></a>
 
 ### Reglas Competitivas Y Economía <a id="rules"></a>
 
@@ -98,7 +98,7 @@ El proyecto apunta a Chrome, Firefox y Safari de escritorio con WebGL 2. Una car
 
 ---
 
-## 🕹 Controles <a id="controls"></a>
+## Controles <a id="controls"></a>
 
 | Acción | Tecla |
 | :--- | :--- |
@@ -122,7 +122,7 @@ El proyecto apunta a Chrome, Firefox y Safari de escritorio con WebGL 2. Una car
 
 ---
 
-## 🚀 Primeros Pasos <a id="start"></a>
+## Primeros Pasos <a id="start"></a>
 
 ### Requisitos
 
@@ -149,7 +149,7 @@ Como el paquete es completamente estático, sirve cualquier alojamiento: GitHub 
 
 ---
 
-## 🧱 Arquitectura Y Diseño <a id="architecture"></a>
+## Arquitectura Y Diseño <a id="architecture"></a>
 
 El juego es una aplicación plana de módulos ES sin paso de compilación. `index.html` posee el shell del DOM, los estilos del HUD y el import map; `js/` posee la simulación y la presentación.
 
@@ -191,7 +191,7 @@ DustIII/
 
 ---
 
-## 🧪 Diagnóstico Y Verificación <a id="diagnostics"></a>
+## Diagnóstico Y Verificación <a id="diagnostics"></a>
 
 - **Modo Sin Render**: añade `?norender` a la URL para omitir el bucle de render costoso manteniendo viva la simulación. Útil para cargas de humo automatizadas y perfilado.
 - **Consola Del Navegador**: todos los sistemas registran en la consola y los fallos de carga indican el recurso o módulo ausente.
@@ -202,7 +202,7 @@ Este repositorio no incluye una suite automatizada de pruebas unitarias. Se agra
 
 ---
 
-## 🔒 Privacidad Y Seguridad Primero <a id="privacy"></a>
+## Privacidad Y Seguridad Primero <a id="privacy"></a>
 
 - **Cero Telemetría**: sin analítica, sin píxeles de seguimiento, sin informes de fallos y sin identificadores.
 - **Cero Backend**: el juego es totalmente estático. No existe cuenta, emparejamiento ni base de datos.
@@ -212,7 +212,7 @@ Este repositorio no incluye una suite automatizada de pruebas unitarias. Se agra
 
 ---
 
-## ⚖ Aviso Educativo Y De Juego Limpio <a id="disclaimer"></a>
+## Aviso Educativo Y De Juego Limpio <a id="disclaimer"></a>
 
 > [!CAUTION]
 > **AVISO IMPORTANTE Y DESCARGO DE RESPONSABILIDAD**:
@@ -222,6 +222,6 @@ Este repositorio no incluye una suite automatizada de pruebas unitarias. Se agra
 
 ---
 
-## 📄 Licencia Y Términos <a id="license"></a>
+## Licencia Y Términos <a id="license"></a>
 
 Distribuido bajo la [Licencia MIT](license). Copyright (c) 2026 AMFI-Disable.

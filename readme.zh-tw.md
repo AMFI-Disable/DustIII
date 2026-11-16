@@ -1,6 +1,6 @@
-# 🎯 DustIII
-
 <div align="center">
+
+# DustIII
 
 **Dust II 爆破模式 — 瀏覽器中的 5v5 拆彈對決**  
 *以 Three.js 打造、忠於 CS2 的規則體系：真實經濟、購買選單、彈道壓槍、穿牆、道具、炸彈點位，以及四種難度的機器人對手——純靜態網站，零後端。*
@@ -18,7 +18,7 @@
 
 ---
 
-## 🌐 選擇語言 / Select Language / 选择语言 / 言語を選択 / Idioma / Langue / Sprache
+## 選擇語言 / Select Language / 选择语言 / 言語を選択 / Idioma / Langue / Sprache
 
 **[English](readme.md)** •
 **[简体中文](readme.zh-cn.md)** •
@@ -30,7 +30,7 @@
 
 ---
 
-## 🧭 目錄
+## 目錄
 
 - [概述與核心價值](#overview)
 - [主要特性](#features)
@@ -44,7 +44,7 @@
 
 ---
 
-## ⚡ 概述與核心價值 <a id="overview"></a>
+## 概述與核心價值 <a id="overview"></a>
 
 DustIII 是在瀏覽器中原生重現經典 de_dust2 5v5 拆彈循環的專案。你手持步槍，四名機器人隊友與你一同架點，五名敵方機器人會像一支協同作戰的隊伍那樣購買、轉點、執行戰術與回防。每一回合都在單一頁面中本地模擬——沒有帳號、沒有配對服務、無需下載、沒有遙測。
 
@@ -52,7 +52,7 @@ DustIII 是在瀏覽器中原生重現經典 de_dust2 5v5 拆彈循環的專案�
 
 ---
 
-## 🎮 主要特性 <a id="features"></a>
+## 主要特性 <a id="features"></a>
 
 ### 競技規則與經濟 <a id="rules"></a>
 
@@ -98,7 +98,7 @@ DustIII 是在瀏覽器中原生重現經典 de_dust2 5v5 拆彈循環的專案�
 
 ---
 
-## 🕹 操作方式 <a id="controls"></a>
+## 操作方式 <a id="controls"></a>
 
 | 操作 | 按鍵 |
 | :--- | :--- |
@@ -122,7 +122,7 @@ DustIII 是在瀏覽器中原生重現經典 de_dust2 5v5 拆彈循環的專案�
 
 ---
 
-## 🚀 快速開始 <a id="start"></a>
+## 快速開始 <a id="start"></a>
 
 ### 環境需求
 
@@ -149,7 +149,7 @@ python3 -m http.server 8000
 
 ---
 
-## 🧱 架構與設計 <a id="architecture"></a>
+## 架構與設計 <a id="architecture"></a>
 
 遊戲是一個無需建置步驟的扁平 ES 模組應用程式。`index.html` 負責 DOM 外殼、HUD 樣式與匯入對應；`js/` 負責模擬與呈現。
 
@@ -191,7 +191,7 @@ DustIII/
 
 ---
 
-## 🧪 診斷與驗證 <a id="diagnostics"></a>
+## 診斷與驗證 <a id="diagnostics"></a>
 
 - **無渲染模式**：在 URL 後附加 `?norender` 可跳過開銷較大的渲染迴圈，同時保持模擬運行，適合自動化冒煙載入與效能分析。
 - **瀏覽器主控台**：所有系統都會向主控台輸出日誌，載入失敗時會指明缺失的資源或模組。
@@ -202,7 +202,7 @@ DustIII/
 
 ---
 
-## 🔒 隱私與安全第一 <a id="privacy"></a>
+## 隱私與安全第一 <a id="privacy"></a>
 
 - **零遙測**：沒有分析、沒有追蹤像素、沒有崩潰回報、沒有識別碼。
 - **零後端**：遊戲完全靜態，不存在帳號、配對或資料庫服務。
@@ -212,7 +212,7 @@ DustIII/
 
 ---
 
-## ⚖ 教育與公平競技免責聲明 <a id="disclaimer"></a>
+## 教育與公平競技免責聲明 <a id="disclaimer"></a>
 
 > [!CAUTION]
 > **重要聲明與免責條款**：
@@ -222,6 +222,6 @@ DustIII/
 
 ---
 
-## 📄 授權與條款 <a id="license"></a>
+## 授權與條款 <a id="license"></a>
 
 基於 [MIT 授權](license) 授權。版權所有 (c) 2026 AMFI-Disable。

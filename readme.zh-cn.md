@@ -1,6 +1,6 @@
-# 🎯 DustIII
-
 <div align="center">
+
+# DustIII
 
 **Dust II 爆破模式 — 浏览器中的 5v5 拆弹对决**  
 *基于 Three.js 打造、忠于 CS2 的规则体系：真实经济、购买菜单、弹道压枪、穿墙、道具、炸弹点位，以及四档难度的机器人对手——纯静态站点，零后端。*
@@ -18,7 +18,7 @@
 
 ---
 
-## 🌐 选择语言 / Select Language / 言語を選択 / Idioma / Langue / Sprache
+## 选择语言 / Select Language / 言語を選択 / Idioma / Langue / Sprache
 
 **[English](readme.md)** •
 **[简体中文](readme.zh-cn.md)** •
@@ -30,7 +30,7 @@
 
 ---
 
-## 🧭 目录
+## 目录
 
 - [概述与核心价值](#overview)
 - [主要特性](#features)
@@ -44,7 +44,7 @@
 
 ---
 
-## ⚡ 概述与核心价值 <a id="overview"></a>
+## 概述与核心价值 <a id="overview"></a>
 
 DustIII 是在浏览器中原生复刻经典 de_dust2 5v5 拆弹循环的项目。你手持步枪，四名机器人队友与你一同架点，五名敌方机器人会像一支协同作战的队伍那样购买、转点、执行战术与回防。每一回合都在单个页面中本地模拟——没有账号、没有匹配服务、无需下载、没有遥测。
 
@@ -52,7 +52,7 @@ DustIII 是在浏览器中原生复刻经典 de_dust2 5v5 拆弹循环的项目�
 
 ---
 
-## 🎮 主要特性 <a id="features"></a>
+## 主要特性 <a id="features"></a>
 
 ### 竞技规则与经济 <a id="rules"></a>
 
@@ -98,7 +98,7 @@ DustIII 是在浏览器中原生复刻经典 de_dust2 5v5 拆弹循环的项目�
 
 ---
 
-## 🕹 操作方式 <a id="controls"></a>
+## 操作方式 <a id="controls"></a>
 
 | 操作 | 按键 |
 | :--- | :--- |
@@ -122,7 +122,7 @@ DustIII 是在浏览器中原生复刻经典 de_dust2 5v5 拆弹循环的项目�
 
 ---
 
-## 🚀 快速开始 <a id="start"></a>
+## 快速开始 <a id="start"></a>
 
 ### 环境要求
 
@@ -149,7 +149,7 @@ python3 -m http.server 8000
 
 ---
 
-## 🧱 架构与设计 <a id="architecture"></a>
+## 架构与设计 <a id="architecture"></a>
 
 游戏是一个无需构建步骤的扁平 ES 模块应用。`index.html` 负责 DOM 外壳、HUD 样式与导入映射；`js/` 负责模拟与呈现。
 
@@ -191,7 +191,7 @@ DustIII/
 
 ---
 
-## 🧪 诊断与验证 <a id="diagnostics"></a>
+## 诊断与验证 <a id="diagnostics"></a>
 
 - **无渲染模式**：在 URL 后附加 `?norender` 可跳过开销较大的渲染循环，同时保持模拟运行，适合自动化冒烟加载与性能分析。
 - **浏览器控制台**：所有系统都会向控制台输出日志，加载失败时会指明缺失的资源或模块。
@@ -202,7 +202,7 @@ DustIII/
 
 ---
 
-## 🔒 隐私与安全第一 <a id="privacy"></a>
+## 隐私与安全第一 <a id="privacy"></a>
 
 - **零遥测**：没有分析、没有追踪像素、没有崩溃上报、没有标识符。
 - **零后端**：游戏完全静态，不存在账号、匹配或数据库服务。
@@ -212,7 +212,7 @@ DustIII/
 
 ---
 
-## ⚖ 教育与公平竞技免责声明 <a id="disclaimer"></a>
+## 教育与公平竞技免责声明 <a id="disclaimer"></a>
 
 > [!CAUTION]
 > **重要声明与免责条款**：
@@ -222,6 +222,6 @@ DustIII/
 
 ---
 
-## 📄 许可与条款 <a id="license"></a>
+## 许可与条款 <a id="license"></a>
 
 基于 [MIT 许可证](license) 授权。版权所有 (c) 2026 AMFI-Disable。
